@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Efflam\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Efflam\\.nuget\\packages"
+    ]
+  }
+}
